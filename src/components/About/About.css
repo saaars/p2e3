@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.section-1 {
+    height: 500px;
+}
+
+.hdr-title {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size:3em;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.align{
+    display: flex;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.abt-txt {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 5em;
+    margin-right: 6em;
+}
+
+.option {
+    max-height: 10em;
+    margin-left: 30%;
+    margin-top: 3em;
+}
+
+.option-3{
+    max-height: 10em;
+    margin-left: 20%;
+    margin-top: 3em;
+}
+
+.card-opt{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    max-height: 25em;
+    margin-bottom: 4em;
+}

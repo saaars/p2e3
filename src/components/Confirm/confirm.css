@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #46311F;
+    letter-spacing: 1px;
+}
+
+.msg-div{
+    background-color: #EB842B;
+    border-radius: 178px 178px 0px 50px / 50px 50px 0px 0px;
+    height: 300px;
+}
+
+.txt-center {
+    text-align: center;
+    padding-top: 5em;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container-thank {
+    width: 60%;
+    display: inline-flex;
+    justify-content: center;
+}

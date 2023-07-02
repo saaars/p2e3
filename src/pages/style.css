@@ -1,0 +1,111 @@
+.btn-light {
+    border: 1px solid #EB842B;
+    color: #EB842B;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 6.5em;
+}
+
+.btn-light:hover{
+    background-color: #EB842B;
+    color: white;
+}
+
+.text-align {
+    align-self: center;
+    margin-right: 3em;
+}
+
+.align-btn{
+    margin-right: 2em;
+}
+
+a {
+    text-decoration: none;
+}
+
+.sect-2{
+    background-color: #EB842B;
+    height: 8.5em;
+}
+
+.border-stat {
+    background-color: white;
+    border: 2px solid black;
+    width: 18em;
+    color: #EB842B;
+    font-size: larger;
+    display: inline-grid;
+    justify-items: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-top {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+/* google maps */
+.location {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 50px;
+}
+
+.width-txt {
+    width: 70%;
+    margin-left: 10em;
+}
+
+.test{
+    position: absolute;
+    text-align: center;
+    width: 200px;
+}
+ 
+.dropdown, .dropdown-toggle{
+    width: 200px;
+}
+
+.dd-btn{
+    background-color: #EB842B;
+    border: #EB842B;
+}
+
+.dd-btn:hover{
+    background-color: rgb(234 88 12);
+    border: #EB842B;
+}
+
+.test-menu{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    border-radius: 1rem;
+    
+
+}
+
+.test2:hover{
+    background-color: rgb(209, 203, 203);
+}
+
+.test2{
+    display: block;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid gray;
+    background-color: #f3f3f3;
+    width: 200px;
+    flex:1;
+    color: black;
+}

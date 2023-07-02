@@ -1,0 +1,28 @@
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sect-1 {
+    height: 472px;
+}
+
+.align{
+    display: flex;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.img-1 {
+    border-radius: 50px;
+}
+
+.foster {
+    background-color: #404040;
+    height: 300px;
+    padding: 3rem;
+    margin: 2em 0em 3em 0em;
+}
